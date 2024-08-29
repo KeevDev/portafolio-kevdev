@@ -1,0 +1,16 @@
+[
+    {
+        "role": "Desarrollador de Software (Remoto)",
+        "company": "DigitalSolutions",
+        "location": "España",
+        "date": "Diciembre 2023 - Marzo 2024",
+        "description": "Desarrollé aplicaciones y APIs utilizando C# y .NET, colaborando con el equipo de desarrollo en la implementación de soluciones escalables y eficientes."
+    },
+    {
+        "role": "Técnico en Soporte de Redes y Telecomunicaciones",
+        "company": "iKono",
+        "location": "Pereira, Risaralda",
+        "date": "Mayo 2024 - Agosto 2024",
+        "description": "Administré redes y sistemas de telecomunicaciones, asegurando la continuidad del servicio y realizando mejoras en la infraestructura de red."
+    }
+]

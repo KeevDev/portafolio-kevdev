@@ -1,0 +1,20 @@
+[
+    {
+        "title": "FBS WEB",
+        "summary": "Pagina WEB para empresa de productos de aseo en Chile.",
+        "languages": ["React", "Js"],
+        "estimatedTime": "Una semana",
+        "url": "https://aseofbs.com",
+        "img": "./fbs.png", 
+        "alt": "Imagen del proyecto FBS WEB"
+    },
+    {
+        "title": "Lank Restaurant",
+        "summary": "Sitio Web para realizar reservas en un restaurante (Proyecto Universitario).",
+        "languages": ["React", "FastApi"],
+        "estimatedTime": "2 Semanas",
+        "url": "no-link",
+        "img": "./lank.png", 
+        "alt": "Imagen del proyecto Lank Restaurant"
+    }
+]
