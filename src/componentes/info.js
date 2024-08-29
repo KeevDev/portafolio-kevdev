@@ -21,7 +21,7 @@ const Info = () => {
             color: "#ffffff",
             maxWidth: isMobile ? "70vw" : "50vw",
             width: "100%",
-            maxHeight: "80vh",
+            maxHeight: isMobile ? "100%" : "80vh",
             overflowY: "auto",
             padding: "20px",
             borderRadius: "8px",
@@ -66,7 +66,7 @@ const Info = () => {
             position: "relative",
             overflow: "hidden",
             width: "350px",
-            height: "350px",  // Altura por defecto
+            height: "350px", // Altura por defecto
             display: "flex",
             flexDirection: "column",
             alignItems: "center", // Centrar contenido
@@ -93,13 +93,14 @@ const Info = () => {
             borderRadius: "5px",
             color: "#fafafa",
             transition: "opacity 0.3s ease, max-height 0.3s ease",
-            maxHeight: "0",  // Ocultar por defecto
+            maxHeight: "0", // Ocultar por defecto
             overflow: "hidden",
             opacity: 0,
         },
         projectInfoVisible: {
-            maxHeight: "250px",  // Ajusta según sea necesario
+            maxHeight: "250px", // Ajusta según sea necesario
             opacity: 1,
+            overflow: "auto", // Añade el scroll
             padding: '1vh',
         },
         resumeLink: {
