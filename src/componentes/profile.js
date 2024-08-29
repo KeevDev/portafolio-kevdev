@@ -96,6 +96,20 @@ const Profile = () => {
             transition={{ duration: 0.3 }}
           />
         </motion.a>
+        <motion.a
+          href="https://wa.me/573122905004"
+          target="_blank"
+          rel="noopener noreferrer"
+          whileHover={{ scale: 1.1 }}
+        >
+          <motion.img
+            src="https://cdn-icons-png.flaticon.com/512/733/733585.png"
+            alt="WhatsApp"
+            style={styles.networkIcon}
+            whileHover={{ scale: 1.2 }}
+            transition={{ duration: 0.3 }}
+          />
+        </motion.a>
       </motion.div>
     </motion.div>
   );

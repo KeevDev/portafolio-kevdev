@@ -17,4 +17,24 @@
         "img": "./lank.png", 
         "alt": "Imagen del proyecto Lank Restaurant"
     }
+    ,
+    {
+        "title": "Coming soon",
+        "summary": "",
+        "languages": [""],
+        "estimatedTime": "",
+        "url": "no-link",
+        "img": "https://infoshopcorp.com/wp-content/uploads/2020/11/placeholder.png", 
+        "alt": "Imagen del proyecto "
+    }
+    ,
+    {
+        "title": "Coming soon",
+        "summary": "",
+        "languages": [""],
+        "estimatedTime": "",
+        "url": "no-link",
+        "img": "https://infoshopcorp.com/wp-content/uploads/2020/11/placeholder.png", 
+        "alt": "Imagen del proyecto "
+    }
 ]

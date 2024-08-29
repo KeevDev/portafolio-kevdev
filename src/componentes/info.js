@@ -65,7 +65,7 @@ const Info = () => {
             marginBottom: "20px",
             position: "relative",
             overflow: "hidden",
-            width: "350px",
+            width: isMobile ? "350px" : "calc(45% - 10px)",
             height: "350px", // Altura por defecto
             display: "flex",
             flexDirection: "column",
@@ -123,7 +123,7 @@ const Info = () => {
             display: "flex",
             flexWrap: "wrap",
             justifyContent: "center", // Centrar tarjetas de proyecto
-            gap: "20px",
+            gap: "10px",
         },
         expandButton: {
             marginTop: "10px",
