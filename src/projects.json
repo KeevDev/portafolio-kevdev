@@ -13,7 +13,7 @@
         "summary": "Sitio Web para realizar reservas en un restaurante (Proyecto Universitario).",
         "languages": ["React", "FastApi"],
         "estimatedTime": "2 Semanas",
-        "url": "no-link",
+        "url": "https://lank-restaurant.vercel.app/",
         "img": "./lank.png", 
         "alt": "Imagen del proyecto Lank Restaurant"
     }
